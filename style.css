@@ -25,3 +25,18 @@ p.azul{
 span.rojo{
     color: brown;
 }
+
+p.centrado{
+    text-align: center;
+    color: darkmagenta;
+}
+body{
+    background-color: burlywood;
+}
+
+p.desplazado {
+    background-color: white;
+    border: black 5px solid;
+    position: relative;
+    left: 550px;
+  }
