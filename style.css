@@ -1,3 +1,27 @@
 h1.azul{
     color: blue;
 }
+
+div.uno {
+    background-color: darkcyan;
+    color: darkred;
+    display: block;
+}
+div.dos{
+    background-color: dimgray;
+    color: forestgreen;
+    display: inline;
+}
+
+div.papa{
+    background-color: green;
+    color: honeydew;
+    display: inline;
+}
+
+p.azul{
+    color: blue;
+}
+span.rojo{
+    color: brown;
+}
